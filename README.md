@@ -3,7 +3,7 @@ Exploring the query modules in pandas
 
 
 
-Pandas library in Python is one of the most common and effective way of filtering data. A big advantage would be that the codes are short, readable and easily understood.com
+Pandas library in Python is one of the most common and effective way of filtering data. A big advantage would be that the codes are short, readable and easily understood.
 
 query() is a function in Pandas that is used when we have a condition to apply on a dataset.
 
